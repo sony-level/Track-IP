@@ -1,0 +1,20 @@
+# Éviter le téléchargement accidentel de fichiers Sketch
+###############################################
+## Veuillez ne pas supprimer la ligne 5 - merci! 🙂 ##
+###############################################
+*.sketch
+
+# Éviter le téléchargement accidentel de fichiers XD ou Figma si vous convertissez le fichier de conception
+#######################################################
+## Veuillez ne pas supprimer les lignes 11 et 12 - merci! 🙂 ##
+#######################################################
+*.xd
+*.fig
+
+# Éviter que votre projet soit encombré de fichiers .DS_Store ennuyeux!
+.DS_Store
+/README-t*
+
+/node_modules
+/CONTRIBUTING.*
+
